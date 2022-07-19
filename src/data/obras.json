@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Mona Lisa",
+    "date": "1503",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-113.jpg?w=605&ssl=1",
+    "description": "También conocida como La Gioconda, es una de las obras más conocidas del artista italiano Leonardo da Vinci y una de las más visitadas del mundo. Es un gran ejemplo de la técnica del claroscuro e hipnotiza por la enigmática sonrisa de la dama retratada. Actualmente se exhibe en el Museo Louvre en París.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "title": "La Última Cena",
+    "date": "1494",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-27.jpg?w=715&ssl=1",
+    "description": "Esta pintura de da Vinci es la representación de la última cena, narrada en el Evangelio de San Juan. Es una obra clave del Renacimiento y todo un tratado de perspectiva. La Última Cena está pintada al óleo sobre yeso, una técnica no utilizada antes en la pintura mural, por lo que su restauración ha sido un proceso complicado. Hoy en día se encuentra en La Iglesia de Santa Maria delle Grazie.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "title": "Guernica",
+    "date": "1937",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-39.jpg?resize=1024%2C463&ssl=1",
+    "description": "Guernica es probablemente una de las obras más trascendentes del pintor Pablo Picasso e igual una de las más impactantes por el tema que toca. A través de esta creación, Picasso ilustra la tragedia del bombardeo a la ciudad de Guernica durante la Guerra Civil Española, por lo que se ha convertido en uno de los símbolos más destacados en contra de la guerra. Actualmente se exhibe en el Museo Nacional Centro de Arte Reina Sofía en Madrid, España.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "title": "Las Meninas",
+    "date": "1656",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-49.jpg?w=620&ssl=1",
+    "description": "Las Meninas es considerada la obra maestra de Diego Velázquez, el artista español del Siglo de Oro. Este óleo sobre tela de 1656 es la de mayor formato realizado por Velázquez. Con una composición en planos, que el artista logra representar por medio de las distintas entradas de iluminación, muestra una escena cotidiana de la corte de Felipe IV. En ella los límites entre pintura y realidad se desdibujan y sin precedentes se suspende el tiempo y el propio artista aparece dentro de la obra. Actualmente se exhibe en el Museo del Prado.",
+    "author": "Diego Velázquez"
+  },
+  {
+    "title": "La Noche Estrellada",
+    "date": "1889",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-59.jpg?resize=1024%2C829&ssl=1",
+    "description": "Esta obra, por el famoso pintor postimpresionista, es una vista nocturna desde el sanatorio de Saint Rémy, lugar donde Van Gogh residió pocos meses antes de su muerte. La técnica del impasto es utilizada por el artista para mostrar una noche inquieta y vibrante, por medio del contraste entre el amarillo intenso sobre empastes azules. Se exhibe en el Museo de Arte Moderno de Nueva York.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "title": "El Grito",
+    "date": "1893",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-67.jpg?w=796&ssl=1",
+    "description": "Esta obra del artista holandés Edvard Munch es un ejemplo de la pintura expresionista, donde el paisaje se une al sentimiento del protagonista. Con un rostro deformado el entorno parece hacer eco de su expresión, que contrasta con un fondo naranja, donde dos figuras parecen alejarse sin percatarse del torbellino emocional que expresa la obra. Tiene varias versiones, la primera, expuesta en 1893, se encuentra en la Galería Nacional de Oslo.",
+    "author": "Edvard Munch"
+  },
+  {
+    "title": "Capilla Sixtina",
+    "date": "1508",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-75.jpg?resize=813%2C1024&ssl=1",
+    "description": "Encargada por el papa Julio II, la bóveda de la Capilla Sixtina es una obra singular de Michelangelo Bonarotti quien realizó esta magna obra sin ser considerado propiamente un pintor. En los nueves recuadros centrales se muestra un programa iconográfico de las historias del Génesis, desde la creación, la caída del hombre, el diluvio y el renacer de la humanidad con el Arca de Noé. Sobre las columnas, pintó cinco Sibilas y siete Profetas. Posteriormente el papa Clemente VII de Medicci le encargó pintar la pared del altar con el Juicio Universal.",
+    "author": "Miguel Ángel"
+  },
+  {
+    "title": "Nenúfares",
+    "date": "1898",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-84.jpg?w=950&ssl=1",
+    "description": "En el sótano del Museo de l´Orangerie se encuentran los famosos Nenúfares de Monet. Fue dedicado por el pintor a Francia como símbolo de la paz, luego del firmado del Armisticio de 1918. Es llamada “La Sixtina” del impresionismo. Muestra lirios en el agua, raíces y el reflejo de los árboles y de las nubes dando la ilusión del infinito natural.",
+    "author": "Monet"
+  },
+  {
+    "title": "La Persistencia de la Memoria",
+    "date": "1931",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2014/10/hotbook-94.jpg?w=1024&ssl=1",
+    "description": "Reconocido como una obra maestra del surrealismo por su atmósfera onírica representada por relojes que se derriten en medio del desierto. Alude al tiempo y a la medida de una eternidad que parece no conocer la humanidad. La inquietante creatura que se encuentra sobre la arena dibuja un perfil que probablemente es el del autor, Dalí, quien parece dormir y soñar toda la escena. Se exhibe en el Museo de Arte Moderno de Nueva York.",
+    "author": "Salvador Dalí"
+  },
+  {
+    "title": "Rueda de Bicicleta",
+    "date": "1913",
+    "image": "https://i0.wp.com/hotbook.mx/wp-content/uploads/2018/04/ready-made-duchamp.jpg?w=540&ssl=1",
+    "description": "La Rueda de Bicicleta es el primer ready – made de Marcel Duchamp, toda una serie de objetos que creó para desafiar las suposiciones que constituyen una obra de arte. En este ready – made Duchamp combina dos piezas de producción masiva, una rueda de bicicleta y un taburete, para crear una máquina sin funcionalidad alguna. Con esto en mente, Duchamp continuó seleccionando objetos prefabricados y llamándolos arte, acciones que cambiaron la experiencia del espectador y la óptica de lo que es el arte. Actualmente se exhibe en el Museo de Arte Moderno de Nueva York.",
+    "author": "Marcel Duchamp"
+  }
+]
